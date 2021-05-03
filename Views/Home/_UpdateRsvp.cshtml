@@ -1,0 +1,21 @@
+@model Rsvp
+<div class="col">
+    <div class="container">
+        <form asp-action="UpdateRsvp" method="POST">
+            <div class="form-group" style="width:400px;">
+                <input type="hidden" asp-for="BbqEventId" value="@ViewBag.show.BbqEventId">
+                <input type="hidden" asp-for="UserId" value="@ViewBag.User.UserId">
+                <div class="row">
+                    <label asp-for="Dish"></label>
+                    <input type="text" asp-for="Dish" class="form-control">
+                    <span asp-validation-for="Dish"></span>
+                </div>
+                <div class="row">
+                    <label asp-for="TotalGuests"></label>
+                    <input asp-for="TotalGuests" class="form-control">
+                    <span asp-validation-for="TotalGuests"></span>
+                </div>
+                <input type="submit" value="Update" class="btn btn-outline-secondary text-primary mt-5">
+        </form>
+    </div>
+</div>

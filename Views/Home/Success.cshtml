@@ -1,0 +1,36 @@
+@model List<BbqEvent>
+
+<div class="container">
+    <div class="row justify-content-between">
+        <div class="col-11">
+            <h1 style="width:700px;"><u>Welcome to the Bbq Planner</u></h1>
+        </div>
+        <div class="col-1">
+            <a href="logout" class="btn btn-primary">Logout</a>
+        </div>
+    </div>
+</div>
+<hr>
+<table class="table table-danger table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col"><u>Bbq</u></th>
+            <th scope="col"><u>Date</u></th>
+            <th scope="col"><u>No. of Parties</u></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(BbqEvent b in Model)
+        {
+        <tr>
+            
+            <td><a href="/showBbq/@b.BbqEventId" class="text-primary"><u>@b.EventName</u></a></td>
+            <td>@b.Date.ToLongDateString() @b.Date.ToLongTimeString()</td>
+            <td>@b.GuestList.Count</td>
+        </tr>
+        }
+    </tbody>
+</table>
+<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+    <a href="newBbq" class="btn btn-outline-secondary text-primary">Add Bbq</a>
+</div>

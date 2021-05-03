@@ -1,0 +1,35 @@
+@model BbqEvent
+<div class="container">
+    <div class="row justify-content-between">
+        <div class="col-11">
+            <h1 style="width:700px;"><u>Plan your Bbq!</u></h1>
+        </div>
+        <div class="col-1">
+            <a href="logout" class="btn btn-primary">Logout</a>
+        </div>
+    </div>
+</div>
+<hr>
+<div class="container">
+    <form asp-action="CreateBbq" method="POST">
+    <div class="form-group" style="width:400px;">
+        <input type="hidden" asp-for="UserId" value="@ViewBag.User.UserId">
+        <div class="row">
+            <label asp-for="EventName"></label>
+            <input type="text" asp-for="EventName" class="form-control">
+            <span asp-validation-for="EventName"></span>
+        </div>
+        <div class="row">
+            <label asp-for="Address"></label>
+            <input type="text" asp-for="Address" class="form-control">
+            <span asp-validation-for="Address"></span>
+        </div>
+        <div class="row">
+            <label asp-for="Date"></label>
+            <input asp-for="Date" class="form-control">
+            <span asp-validation-for="Date"></span>
+        </div>
+        <input type="submit" value="Submit" class="btn btn-outline-secondary text-primary mt-5">
+    </form>
+</div>
+</div>

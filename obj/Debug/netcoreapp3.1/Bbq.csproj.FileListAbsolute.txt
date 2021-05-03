@@ -1,0 +1,130 @@
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.csprojAssemblyReference.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.AssemblyInfoInputs.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.AssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.csproj.CoreCompileInputs.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.MvcApplicationPartsAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorAssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.TagHelpers.input.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.TagHelpers.output.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorCoreGenerate.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Success.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_Login.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_Register.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorTargetAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorTargetAssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.deps.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.runtimeconfig.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.runtimeconfig.dev.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.Views.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Bbq.Views.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.Views.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.csproj.CopyComplete
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/staticwebassets/Bbq.StaticWebAssets.Manifest.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/staticwebassets/Bbq.StaticWebAssets.xml
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Bbq.genruntimeconfig.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/NewBbq.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/ShowBbq.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_UpdateRsvp.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.deps.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.runtimeconfig.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.runtimeconfig.dev.json
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.Views.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Bbq.Views.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.csprojAssemblyReference.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.AssemblyInfoInputs.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.AssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.csproj.CoreCompileInputs.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.MvcApplicationPartsAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorAssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.TagHelpers.input.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.TagHelpers.output.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorCoreGenerate.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/NewBbq.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/ShowBbq.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/Success.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_Login.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_Register.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Home/_UpdateRsvp.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorTargetAssemblyInfo.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.RazorTargetAssemblyInfo.cs
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.Views.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.csproj.CopyComplete
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/staticwebassets/Bbq.StaticWebAssets.Manifest.cache
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/staticwebassets/Bbq.StaticWebAssets.xml
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.dll
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.pdb
+/Users/Stina/Desktop/CodingDojo/C#/Bbq Bonanza/Bbq/obj/Debug/netcoreapp3.1/Bbq.genruntimeconfig.cache
